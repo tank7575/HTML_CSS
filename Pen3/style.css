@@ -1,0 +1,16 @@
+body {
+    font-family: Helvetica, Verdana, sans-serif;
+    background-color: yellow;
+    font-size: 12pt;
+}
+h1 {
+    font-size: 3em;
+    font-style: italic;
+}
+h2 {
+    font-size: 2em;
+}
+p {
+    font-weight: bold;
+    color:red;
+}

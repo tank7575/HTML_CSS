@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(34, 22, 201);
+    text-align: center;
+    font-family: Arial;
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    background-color: blue;
+    color: #F9CDAD;
+    font-size: 8em;
+    padding: 50px; 
+}
+h2 {
+    color: #FE4365;
+    background-color: #F9CDAD;
+}
+img {
+    height: 250px;
+}
+p {
+    background-color: rgb(170, 202, 27);
+    color: whitesmoke;
+    padding: 50px;
+    font-size: 2em;
+}

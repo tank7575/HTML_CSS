@@ -1,0 +1,26 @@
+body {
+    background-color: #ffff99;
+}
+h1 {
+    color: rgb(245, 122, 7);
+    border: 2px orange solid;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+h2 {
+    background-color: orange;
+    color: white;
+    font-family: helvetica;
+    padding: 20px;
+}
+ol {
+    background-color: #ffcc00;
+}
+li {
+    background-color: #ffcc00;
+    color: #ffff99;
+    padding:10px;
+}
+p {
+    border: 3px orange dotted;
+}
