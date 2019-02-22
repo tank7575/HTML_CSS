@@ -1,0 +1,16 @@
+#intro {
+    color: green;
+}
+.odd {
+    color: blue;
+}
+.even {
+    color: red;
+}
+h1 {
+    color: black;
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+
+}
