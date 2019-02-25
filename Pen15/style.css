@@ -1,0 +1,22 @@
+body {
+    background: gray;
+    color: yellow;
+    }
+header h1 {
+    color: blue;
+    padding: 70px;
+    font-family: 'Courier New', Courier, monospace;
+    
+    
+}header h2 {
+    color: purple;    
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+    color: orange;
+    font-family: cursive;
+}
+ol, ul {
+    color:black;
+    Border: 2px yellow dotted
+}
