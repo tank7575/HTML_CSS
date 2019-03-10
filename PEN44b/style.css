@@ -1,0 +1,29 @@
+body {
+    background-color: #efefef;
+    color: #a9a9a9;
+    font-family: "Book Aniqua", serif;
+}
+h1 {
+    color: #ff3b3f;
+}
+h2 {
+    position: relative;
+    left: 50px;
+}
+div {
+    background-color: #caebf2;
+    width: 80%;
+    position: relative;
+    left: 100px;
+}
+h3 {
+    color: #ff3b3f;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+p {
+    width: 90%;
+    position: relative;
+    left: 25;
+}
